@@ -1,4 +1,4 @@
-package com.asiainfo.demo.algorithms;
+package algorithms;
 
 public class QuickSort {
 	public static void sort(int[] a, int left, int right) {

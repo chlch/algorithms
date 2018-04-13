@@ -1,4 +1,4 @@
-package com.asiainfo.demo.algorithms;
+package algorithms;
 
 public class Merge {
 	public static void sort(int[] a, int[] b, int left, int right) {
